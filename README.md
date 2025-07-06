@@ -1,10 +1,23 @@
-<h1 align="center">Hi 👋, I'm Alif Sarker</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN Stack | Open Source Enthusiast from Bangladesh 🇧🇩</h3>
 
 <p align="center">
   <img src="https://i.ibb.co/v4d1LxF9/github.jpg" alt="cover" width="100%" />
 </p>
 
+
+<h1 align="center">Hi 👋, I'm Alif Sarker</h1>
+<h3 align="center">🚀 Full Stack Developer | MERN Stack | Open Source Enthusiast from Bangladesh 🇧🇩</h3>
+
+## 👨‍💻 About Me
+
+Hi! I'm **Alif Sarker Rony**, a passionate **MERN Stack Developer** from **Bangladesh** 🇧🇩. I love building full-stack web applications that solve real-world problems and create awesome user experiences.
+
+- 🌱 Currently deepening my skills in **backend development** & **Stripe payment integration**
+- 🚀 Building a **Parcel Delivery Web App** with user/admin dashboards
+- 💬 I love discussing **JavaScript, React, Node.js, MongoDB**, and web performance
+- 🧩 I enjoy solving bugs more than writing new code — debugging is like solving a mystery 🕵️‍♂️
+- 🎯 My goal: **Become a top open-source contributor** and join a world-class software team
+
+---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=YourGitHubUserName&label=Profile%20views&color=0e75b6&style=flat" alt="YourGitHubUserName" /> </p>
 
