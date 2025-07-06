@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alif</h1>
+<h1 align="center">Hi 👋, I'm Alif Sarker</h1>
 <h3 align="center">🚀 Full Stack Developer | MERN Stack | Open Source Enthusiast from Bangladesh 🇧🇩</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=YourGitHubUserName&label=Profile%20views&color=0e75b6&style=flat" alt="YourGitHubUserName" /> </p>
@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Next.js & TypeScript**  
 - 👨‍💻 All of my projects are available at [https://your-portfolio.com](https://your-portfolio.com)  
 - 💬 Ask me about **React, Node.js, MongoDB, Firebase**  
-- 📫 How to reach me: **youremail@example.com**  
+- 📫 How to reach me: **alifsarkerrony@gmail.com**  
 - ⚡ Fun fact: I love debugging and late-night coding 🎯  
 
 ---
@@ -40,6 +40,6 @@
 
 ### 🔗 Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/yourusername" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="yourusername" height="20" width="20" /></a>
-<a href="mailto:youremail@example.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" alt="email" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/yourusername" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="Alif Sarker " height="20" width="20" /></a>
+<a href="alifsarkerrony@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" alt="email" height="20" width="20" /></a>
 </p>
