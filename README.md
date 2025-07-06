@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full Stack Developer | MERN Stack | Open Source Enthusiast from Bangladesh 🇧🇩</h3>
 
 <p align="center">
-  <img src="https://i.ibb.co/DKn3zb9/github-banner.png" alt="cover" width="100%" />
+  <img src="[https://i.ibb.co/DKn3zb9/github-banner.png](https://media.licdn.com/dms/image/v2/D4D16AQHtODq5lTtSWA/profile-displaybackgroundimage-shrink_350_1400/B4DZewmhmLG8Ac-/0/1751014580254?e=1757548800&v=beta&t=xz-8Vb2EW8j4xms_Ry1t8E_DfifAc_lVqn7SUmMhO-0)" alt="cover" width="100%" />
 </p>
 
 
