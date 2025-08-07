@@ -39,7 +39,7 @@ Hi! I'm **Alif Sarker Rony**, a passionate **MERN Stack Developer** from **Bangl
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
   
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />
- <img src="https://raw.githubusercontent.com/saadeghi/files/main/daisyui/daisyui-logo-icon.svg" alt="DaisyUI Logo" width="40" />
+
 
 </div>
 
@@ -50,8 +50,7 @@ Hi! I'm **Alif Sarker Rony**, a passionate **MERN Stack Developer** from **Bangl
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" />
   <img src="https://www.vectorlogo.zone/logos/stripe/stripe-icon.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
+ 
 </div>
 
 ### 🔧 Tools & Platforms
@@ -72,12 +71,7 @@ Hi! I'm **Alif Sarker Rony**, a passionate **MERN Stack Developer** from **Bangl
 
 ---
 
-### 📈 GitHub Stats
 
-<p align="center">
-
-
-</p>
 
 ---
 
