@@ -88,8 +88,8 @@ Hi! I'm **Alif Sarker Rony**, a passionate **MERN Stack Developer** from **Bangl
 
 <p align="left">
   <a href="https://www.linkedin.com/in/alifsarkerrony" target="_blank">
-    <img src="www.linkedin.com/in/alif-sarker-rony" width="40" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
+</a>
   <a href="alifsarkerrony@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" width="40" />
   </a>
