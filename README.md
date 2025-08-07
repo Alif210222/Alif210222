@@ -86,11 +86,11 @@ Hi! I'm **Alif Sarker Rony**, a passionate **MERN Stack Developer** from **Bangl
 
 ## 🌍 Connect with Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/alifsarkerrony" target="_blank">
+<p align="left" >
+  <a href="https://www.linkedin.com/in/alifsarkerrony" style="margin-right: 15px" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
 </a>
-  <a href="alifsarkerrony@gmail.com" target="_blank">
+  <a href="alifsarkerrony@gmail.com" target="_blank" style="margin-right: 15px">
     <img src="https://skillicons.dev/icons?i=gmail" width="40" />
   </a>
   <a href="https://www.facebook.com/alifsarkerrony" target="_blank">
