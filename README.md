@@ -37,10 +37,10 @@ Hi! I'm **Alif Sarker Rony**, a passionate **MERN Stack Developer** from **Bangl
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" />
+  
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/saadeghi/files/main/daisyui/daisyui-logo-icon.svg" width="40" />
+ <img src="https://raw.githubusercontent.com/saadeghi/files/main/daisyui/daisyui-logo-icon.svg" alt="DaisyUI Logo" width="40" />
+
 </div>
 
 ### 🖥️ Backend
