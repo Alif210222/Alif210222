@@ -23,7 +23,7 @@ Hi! I'm **Alif Sarker Rony**, a passionate **MERN Stack Developer** from **Bangl
 
 - 🔭 I’m currently working on **a Parcel Delivery Web App**  
 - 🌱 I’m currently learning **Next.js & TypeScript**  
-- 👨‍💻 All of my projects are available at [https://your-portfolio.com](https://your-portfolio.com)  
+- 👨‍💻 All of my projects are available at my portfolio. ([https://your-portfolio.com](https://alif-web.netlify.app/))  
 - 💬 Ask me about **React, Node.js, MongoDB, Firebase**  
 - 📫 How to reach me: **alifsarkerrony@gmail.com**  
 - ⚡ Fun fact: I love debugging and late-night coding 🎯  
@@ -75,8 +75,8 @@ Hi! I'm **Alif Sarker Rony**, a passionate **MERN Stack Developer** from **Bangl
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alifsarkerrony&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifsarkerrony&layout=compact&theme=tokyonight" />
+ ![Alif's GitHub stats](https://github-readme-stats.vercel.app/api?username=alifsarkerrony&show_icons=true&theme=github_dark)
+
 </p>
 
 ---
