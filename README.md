@@ -75,7 +75,7 @@ Hi! I'm **Alif Sarker Rony**, a passionate **MERN Stack Developer** from **Bangl
 ### 📈 GitHub Stats
 
 <p align="center">
- ![Alif's GitHub stats](https://github-readme-stats.vercel.app/api?username=alifsarkerrony&show_icons=true&theme=github_dark)
+
 
 </p>
 
@@ -87,18 +87,16 @@ Hi! I'm **Alif Sarker Rony**, a passionate **MERN Stack Developer** from **Bangl
 ## 🌍 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/alifsarkerrony/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+  <a href="https://www.linkedin.com/in/alifsarkerrony" target="_blank">
+    <img src="www.linkedin.com/in/alif-sarker-rony" width="40" />
   </a>
-  <a href="mailto:alifrontenddev@gmail.com" target="_blank">
+  <a href="alifsarkerrony@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" width="40" />
   </a>
-  <a href="https://www.facebook.com/yourusername" target="_blank">
+  <a href="https://www.facebook.com/alifsarkerrony" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="40" />
   </a>
-  <a href="https://x.com/yourusername" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png" width="40" />
-  </a>
+ 
 </p>
 
 
