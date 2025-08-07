@@ -69,12 +69,12 @@ Hi! I'm **Alif Sarker Rony**, a passionate **MERN Stack Developer** from **Bangl
 
 ---
 
----
-![Alis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alif210222&hide=contribs,prs)
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Alif210222&hide=contribs,prs" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alif-Sarker)](https://github.com/Alif-Sarker/github-readme-stats)
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alif210222&layout=compact" />
 
----
+
+
 
 
 
