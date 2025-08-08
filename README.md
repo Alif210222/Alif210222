@@ -22,14 +22,15 @@ Hi! I'm **Alif Sarker Rony**, a passionate **MERN Stack Developer** from **Bangl
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=YourGitHubUserName&label=Profile%20views&color=0e75b6&style=flat" alt="YourGitHubUserName" /> </p>
 
 - 🔭 I’m currently working on **a Parcel Delivery Web App**  
-- 🌱 I’m currently learning **Next.js & TypeScript**  
+- 🌱 I’m currently learning **Next.js & TypeScript**
+-  💬 Ask me about **React, Node.js, MongoDB, Firebase**  
 - 👨‍💻 All of my projects are available at my portfolio. ([(https://alif-web.netlify.app/)])  
-- 💬 Ask me about **React, Node.js, MongoDB, Firebase**  
+- 📫 Contact in Whatsapp +8801994677977
 - 📫 How to reach me: **alifsarkerrony@gmail.com**  
 - ⚡ Fun fact: I love debugging and late-night coding 🎯  
 
 
-## 🛠️ Technologies & Tools
+## 🛠️ Skilled Technologies & Tools 
 
 ### 👨‍🎨 Frontend
 <div align="left">
@@ -68,34 +69,32 @@ Hi! I'm **Alif Sarker Rony**, a passionate **MERN Stack Developer** from **Bangl
 
 
 ---
-
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Alif210222&hide=contribs,prs" />
-
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alif210222&layout=compact" />
-
-
-
-
-
-
-
-## 🌍 Connect with Me
+ ## 🌍 Connect with Me
 
 <p align="left" >
-  <a href="https://www.linkedin.com/in/alifsarkerrony" style="margin-right: 15px" target="_blank">
+  <a href="https://www.linkedin.com/in/alifsarkerrony" style="margin-right:15px" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
 </a>
-  <a href="alifsarkerrony@gmail.com" target="_blank" style="margin-right: 15px">
+  <a href="alifsarkerrony@gmail.com" target="_blank" style="margin-right:15px">
     <img src="https://skillicons.dev/icons?i=gmail" width="40" />
   </a>
   <a href="https://www.facebook.com/alifsarkerrony" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="40" />
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="40" style="margin-right: 15px" />
   </a>
   <a href="https://github.com/Alif210222" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40" />
 </a>
  
 </p>
+
+---
+
+## My Stats 
+
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Alif210222&hide=contribs,prs" />
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alif210222&layout=compact" />
 
 
 ---
