@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://i.ibb.co.com/7tnkpm49/coding-cover-photo.jpg" alt="cover" width="100%" />
+  <img src="https://i.ibb.co.com/chcG73Jn/download-1.jpg" alt="cover" width="100%" />
 </p>
 
 
