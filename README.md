@@ -29,7 +29,7 @@ Hi! I'm **Alif Sarker Rony**, a passionate **MERN Stack Developer** from **Bangl
 - 📫 How to reach me: **alifsarkerrony@gmail.com**  
 - ⚡ Fun fact: I love debugging and late-night coding 🎯  
 
-
+---
 ## 🛠️ Skilled Technologies & Tools 
 
 ### 👨‍🎨 Frontend
