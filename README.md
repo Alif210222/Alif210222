@@ -91,7 +91,7 @@ Hi! I'm **Alif Sarker Rony**, a passionate **MERN Stack Developer** from **Bangl
   <a href="https://www.facebook.com/alifsarkerrony" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="40" />
   </a>
-  <a href="https://github.com/alifsarkerrony" target="_blank">
+  <a href="https://github.com/Alif210222" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40" />
 </a>
  
