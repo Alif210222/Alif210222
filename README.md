@@ -19,7 +19,7 @@ Hi! I'm **Alif Sarker Rony**, a passionate **MERN Stack Developer** from **Bangl
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=YourGitHubUserName&label=Profile%20views&color=0e75b6&style=flat" alt="YourGitHubUserName" /> </p>
+<p align="left"> <img src="(https://res.cloudinary.com/dwfs21ssw/image/upload/v1778098496/ChatGPT_Image_May_7_2026_02_12_15_AM_xvirjl.png)" alt="YourGitHubUserName" /> </p>
 
 - 🔭 I’m currently working on **a App Orbit Web App**  
 - 🌱 I’m currently learning **Next.js & TypeScript**
