@@ -29,7 +29,7 @@ SaaS & Product Development
 🎯 Career Goal
 To become a highly skilled software engineer, contribute to impactful products, and grow through real-world development challenges and open-source collaboration.
   
-- 🌱 I’m currently learning **Next.js & TypeScript**  
+- 🌱 I’m currently learning **Next.js , TypeScript & more Backend Technology**  
 - 👨‍💻 All of my projects are available at my portfolio. ([(https://alif-web.netlify.app/)])  
 - 📫 Contact in Whatsapp +8801994677977
 - 📫 How to reach me: **alifsarkerrony@gmail.com**
@@ -71,7 +71,7 @@ To become a highly skilled software engineer, contribute to impactful products, 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" />
 </div>
 
-
+🛠️ Tools & Platforms
 
 
 ---
