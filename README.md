@@ -88,10 +88,6 @@ To become a highly skilled software engineer, contribute to impactful products, 
   <a href="https://www.facebook.com/alifsarkerrony" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="40" style="margin-right: 15px" />
   </a>
-  <a href="https://github.com/Alif210222" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
-</a>
- 
 </p>
 
 ---
@@ -99,11 +95,47 @@ To become a highly skilled software engineer, contribute to impactful products, 
 ## My Stats 
 
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Alif210222&hide=contribs,prs" />
+# 📊 GitHub Analytics
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alif210222&layout=compact" />
+<!-- <div align="center">
 
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Alif210222&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alif210222&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div> -->
+
+<br/>
+
+ <div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Alif210222&theme=tokyonight&hide_border=true" />
+
+</div> 
 
 ---
 
+<!-- # 🏆 GitHub Trophies -->
+
+<!-- <div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Alif210222&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div> -->
+
+---
+
+# 🐍 Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+---
+
 _⭐️ Don't forget to star some repositories if you like my work,Thank you!_
+
+
+
+
