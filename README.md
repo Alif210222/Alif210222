@@ -18,14 +18,15 @@ Building full-stack web applications with modern MERN technologies
 Exploring scalable backend systems & API architecture
 Implementing secure authentication and Stripe payment systems
 Improving performance, maintainability, and developer experience
+
 💡 Interests
 Full Stack Web Development
 System Design & Backend Engineering
 Open Source Contribution
 Performance Optimization
 SaaS & Product Development
-🎯 Career Goal
 
+🎯 Career Goal
 To become a highly skilled software engineer, contribute to impactful products, and grow through real-world development challenges and open-source collaboration.
   
 - 🌱 I’m currently learning **Next.js & TypeScript**  
