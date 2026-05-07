@@ -13,16 +13,13 @@ Hi, I'm **Alif Sarker Rony** — a passionate **Full Stack Developer** from Bang
 
 I specialize in creating full-stack solutions using JavaScript, TypeScript, React, Next.js, Node.js, Express.js. I enjoy transforming ideas into real-world products with clean UI, efficient backend architecture, and smooth user experiences.
 
-🚀 What I'm Working On
-Building full-stack web applications with modern MERN technologies
+- What I'm Working On
+Building full-stack web applications with modern MERN technologies, 
 Exploring scalable backend systems & API architecture
-Implementing secure authentication and Stripe payment systems
-Improving performance, maintainability, and developer experience
 
-💡 Interests
+- Interests: 
 Full Stack Web Development
 System Design & Backend Engineering
-Open Source Contribution
 Performance Optimization
 SaaS & Product Development
 
@@ -33,7 +30,7 @@ To become a highly skilled software engineer, contribute to impactful products, 
 - 👨‍💻 All of my projects are available at my portfolio. ([(https://alif-web.netlify.app/)])  
 - 📫 Contact in Whatsapp +8801994677977
 - 📫 How to reach me: **alifsarkerrony@gmail.com**
-- - 👨‍💻 Also reach me in Linkdine. ([(www.linkedin.com/in/alif-sarker-rony)])  
+- 👨‍💻 Also reach me in Linkdine. ([(www.linkedin.com/in/alif-sarker-rony)])  
  
 ---
 ## 🛠️ Skilled Technologies & Tools :
