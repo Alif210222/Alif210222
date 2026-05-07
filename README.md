@@ -111,9 +111,7 @@ To become a highly skilled software engineer, contribute to impactful products, 
 
 <img width="70%" src="https://streak-stats.demolab.com?user=Alif210222&theme=tokyonight&hide_border=true" />
 
-</div> 
-
----
+</div>
 
 <!-- # 🏆 GitHub Trophies -->
 
@@ -123,8 +121,6 @@ To become a highly skilled software engineer, contribute to impactful products, 
 
 </div> -->
 
----
-
 <!--  # 🐍 Contribution Graph -->
 
 <!-- <div align="center">
@@ -132,7 +128,6 @@ To become a highly skilled software engineer, contribute to impactful products, 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
 </div> -->
----
 
 _⭐️ Don't forget to star some repositories if you like my work,Thank you!_
 
