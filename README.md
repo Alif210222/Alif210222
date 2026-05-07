@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Alif Sarker</h1>
-<h3 align="center">🚀 Full Stack Developer | Open Source Enthusiast from Bangladesh 🇧🇩</h3>
+<h3 align="center">🚀 Full Stack Developer | Open Source Enthusiast from Bangladesh.</h3>
 
 ## 👨‍💻 About Me
 
