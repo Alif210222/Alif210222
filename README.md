@@ -75,9 +75,6 @@ To become a highly skilled software engineer, contribute to impactful products, 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" />
 </div> -->
 
-🛠️ Tools & Platforms
-
-
 ---
  ## 🌍 Connect with Me
 
@@ -92,7 +89,7 @@ To become a highly skilled software engineer, contribute to impactful products, 
     <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="40" style="margin-right: 15px" />
   </a>
   <a href="https://github.com/Alif210222" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
 </a>
  
 </p>
