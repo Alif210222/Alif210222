@@ -125,13 +125,13 @@ To become a highly skilled software engineer, contribute to impactful products, 
 
 ---
 
-# 🐍 Contribution Graph
+<!--  # 🐍 Contribution Graph -->
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
-</div>
+</div> -->
 ---
 
 _⭐️ Don't forget to star some repositories if you like my work,Thank you!_
