@@ -36,10 +36,14 @@ To become a highly skilled software engineer, contribute to impactful products, 
 - - 👨‍💻 Also reach me in Linkdine. ([(www.linkedin.com/in/alif-sarker-rony)])  
  
 ---
-## 🛠️ Skilled Technologies & Tools 
+## 🛠️ Skilled Technologies & Tools :
 
-### 👨‍🎨 Frontend
-<div align="left">
+<p align="center">
+  <img src="https://res.cloudinary.com/dwfs21ssw/image/upload/v1778133799/ChatGPT_Image_May_7_2026_12_02_59_PM_erwd2i.png" width="100%" />
+</p>
+
+
+<!-- <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
@@ -48,20 +52,20 @@ To become a highly skilled software engineer, contribute to impactful products, 
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />
 
 
-</div>
+</div> -->
 
-### 🖥️ Backend
-<div align="left">
+
+<!-- <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" />
   <img src="https://www.vectorlogo.zone/logos/stripe/stripe-icon.svg" width="40" />
  
-</div>
+</div> -->
 
-### 🔧 Tools & Platforms
-<div align="left">
+
+<!-- <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
@@ -69,7 +73,7 @@ To become a highly skilled software engineer, contribute to impactful products, 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" />
-</div>
+</div> -->
 
 🛠️ Tools & Platforms
 
