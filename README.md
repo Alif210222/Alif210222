@@ -5,30 +5,35 @@
 
 
 <h1 align="center">Hi 👋, I'm Alif Sarker</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN Stack | Open Source Enthusiast from Bangladesh 🇧🇩</h3>
+<h3 align="center">🚀 Full Stack Developer | Open Source Enthusiast from Bangladesh 🇧🇩</h3>
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Alif Sarker Rony**, a passionate **MERN Stack Developer** from **Bangladesh** 🇧🇩. I love building full-stack web applications that solve real-world problems and create awesome user experiences.
+Hi, I'm **Alif Sarker Rony** — a passionate **Full Stack Developer** from Bangladesh 🇧🇩, focused on building scalable, user-centric, and modern web applications.
 
-- 🌱 Currently deepening my skills in **backend development** & **Stripe payment integration**
-- 🚀 Building a **Parcel Delivery Web App** with user/admin dashboards
-- 💬 I love discussing **JavaScript, React, Node.js, MongoDB**, and web performance
-- 🧩 I enjoy solving bugs more than writing new code — debugging is like solving a mystery 🕵️‍♂️
-- 🎯 My goal: **Become a top open-source contributor** and join a world-class software team
+I specialize in creating full-stack solutions using JavaScript, TypeScript, React, Next.js, Node.js, Express.js. I enjoy transforming ideas into real-world products with clean UI, efficient backend architecture, and smooth user experiences.
 
----
+🚀 What I'm Working On
+Building full-stack web applications with modern MERN technologies
+Exploring scalable backend systems & API architecture
+Implementing secure authentication and Stripe payment systems
+Improving performance, maintainability, and developer experience
+💡 Interests
+Full Stack Web Development
+System Design & Backend Engineering
+Open Source Contribution
+Performance Optimization
+SaaS & Product Development
+🎯 Career Goal
 
-<!-- <p align="left"> <img src="(https://res.cloudinary.com/dwfs21ssw/image/upload/v1778098496/ChatGPT_Image_May_7_2026_02_12_15_AM_xvirjl.png)" alt="YourGitHubUserName" /> </p> -->
-
-- 🔭 I’m currently working on **a App Orbit Web App**  
-- 🌱 I’m currently learning **Next.js & TypeScript**
--  💬 Ask me about **React, Node.js, MongoDB, Firebase**  
+To become a highly skilled software engineer, contribute to impactful products, and grow through real-world development challenges and open-source collaboration.
+  
+- 🌱 I’m currently learning **Next.js & TypeScript**  
 - 👨‍💻 All of my projects are available at my portfolio. ([(https://alif-web.netlify.app/)])  
 - 📫 Contact in Whatsapp +8801994677977
-- 📫 How to reach me: **alifsarkerrony@gmail.com**  
-- ⚡ Fun fact: I love debugging and late-night coding 🎯  
-
+- 📫 How to reach me: **alifsarkerrony@gmail.com**
+- - 👨‍💻 Also reach me in Linkdine. ([(www.linkedin.com/in/alif-sarker-rony)])  
+ 
 ---
 ## 🛠️ Skilled Technologies & Tools 
 
